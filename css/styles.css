@@ -217,37 +217,30 @@ footer a:hover {
     display: block; /* Mostrar el texto del título como bloque */
     font-size: 14px; /* Tamaño de fuente del texto del título */
 }
-        /* Estilos personalizados para la sección de contacto */
-        .contact-section {
-            margin-top: 20px;
-        }
-        .map-container {
-            height: 400px;
-        }
-        .contact-info {
-            font-size: 18px;
-        }
-        .contact-info p {
-            margin-bottom: 10px;
-        }
-        .contact-info ul {
-            list-style: none;
-            padding: 0;
-        }
-        .contact-info ul li {
-            margin-bottom: 5px;
-        }
-        .contact-info a {
-            text-decoration: none;
-            color: #007bff;
-        }
-        .contact-info a:hover {
-            text-decoration: underline;
-        }
+/**/
 
-        /* Estilos para el mapa */
-        .map-container {
-            width: 100%;
-            height: 400px;
-            margin-top: 20px;
-        }
+#consumo-responsable {
+    background-color: #f7f7f7;
+    padding: 40px 0;
+}
+
+.content__wrapper {
+    text-align: center;
+}
+
+.page-titles {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.page-subtitles {
+    font-size: 24px;
+    color: red;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
